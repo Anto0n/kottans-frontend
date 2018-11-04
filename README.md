@@ -5,7 +5,7 @@
     <h1>Kottans Front-End Course</h1>
     <meta name="description" content="Stage 0. Self-Study" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
 </head>
 
 <body>
@@ -13,7 +13,7 @@
         <h2>General Basics</h2>
         <ol class="list-group" start="0">
             <li class="list-group-item d-flex justify-content-between align-items-center">
-                <i class="material-icons">done</i></span>
+                <span><i class="material-icons">done</i></span>
                 Git Basics
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
