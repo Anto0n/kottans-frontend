@@ -13,7 +13,7 @@
         <h2>General Basics</h2>
         <ol class="list-group" start="0">
             <li class="list-group-item d-flex justify-content-between align-items-center">
-                <i class="material-icons">done</i></span>
+                <span><i class="material-icons">done</i></span>
                 Git Basics
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
