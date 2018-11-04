@@ -12,8 +12,10 @@
     <div>
         <h2>General Basics</h2>
         <ol class="list-group" start="0">
+            </li>
                 <!-- <i class="material-icons">done</i></span> -->
                 Git Basics
+            </li>
             </li>
                 <!-- <i class="material-icons">done</i></span> -->
                 Linux CLI and Networking
