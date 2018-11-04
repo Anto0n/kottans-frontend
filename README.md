@@ -14,15 +14,15 @@
         <ol class="list-group" start="0">
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <i class="material-icons">done</i></span>
-                0. Git Basics
+                Git Basics
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <i class="material-icons">done</i></span>
-                1. Linux CLI and Networking
+                Linux CLI and Networking
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                2. VCS (hello gitty), GitHub and Collaboration
+                VCS (hello gitty), GitHub and Collaboration
             </li>
         </ol>
     </div>
@@ -31,19 +31,19 @@
         <ol class="list-group">
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                3. Intro to HTML & CSS
+                Intro to HTML & CSS
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                4. Responsive Web Design
+                Responsive Web Design
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                5. JavaScript Basics
+                JavaScript Basics
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                6. Document Object Model
+                Document Object Model
             </li>
         </ol>
     </div>
@@ -52,31 +52,31 @@
         <ol class="list-group">
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                7. Building a Tiny JS World (pre-OOP)
+                Building a Tiny JS World (pre-OOP)
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                8. Object oriented JS
+                Object oriented JS
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                9. OOP exercise
+                OOP exercise
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                10. Offline Web Applications
+                Offline Web Applications
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                11. Memory pair game
+                Memory pair game
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                12. Website Performance Optimization
+                Website Performance Optimization
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                13. Friends App
+                Friends App
             </li>
         </ol>
     </div>
