@@ -12,7 +12,7 @@
     <div>
         <h2>General Basics</h2>
         <ol class="list-group" start="0">
-            </li class="list-group-item d-flex justify-content-between align-items-center">
+            <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
                 Git Basics
             </li>
@@ -28,7 +28,7 @@
     </div>
     <div>
         <h2>Front-End Basics</h2>
-        <ol class="list-group">
+        <ol class="list-group" start="3">
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
                 Intro to HTML & CSS
@@ -49,7 +49,7 @@
     </div>
     <div>
         <h2>Advanced Topics</h2>
-        <ol class="list-group">
+        <ol class="list-group" start="7">
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
                 Building a Tiny JS World (pre-OOP)
