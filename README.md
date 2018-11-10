@@ -14,15 +14,15 @@
         <ol class="list-group" start="0">
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Git Basics
+                <a href="/kottans/frontend/blob/master/tasks/git-intro.md">Git Basics</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Linux CLI and Networking
+                <a href="/kottans/frontend/blob/master/tasks/linux-cli-http.md">Linux CLI and Networking</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                VCS (hello gitty), GitHub and Collaboration
+                <a href="/kottans/frontend/blob/master/tasks/git-collaboration.md">VCS (hello gitty), GitHub and Collaboration</a>
             </li>
         </ol>
     </div>
@@ -31,19 +31,19 @@
         <ol class="list-group" start="3">
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Intro to HTML & CSS
+                <a href="/kottans/frontend/blob/master/tasks/html-css-intro.md">Intro to HTML &amp; CSS</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Responsive Web Design
+                <a href="/kottans/frontend/blob/master/tasks/html-css-responsive.md">Responsive Web Design</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                JavaScript Basics
+                <a href="/kottans/frontend/blob/master/tasks/js-basics.md">JavaScript Basics</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Document Object Model
+                <a href="/kottans/frontend/blob/master/tasks/js-dom.md">Document Object Model</a>
             </li>
         </ol>
     </div>
@@ -52,31 +52,31 @@
         <ol class="list-group" start="7">
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Building a Tiny JS World (pre-OOP)
+                <a href="/kottans/frontend/blob/master/tasks/js-pre-oop.md">Building a Tiny JS World (pre-OOP)</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Object oriented JS
+                <a href="/kottans/frontend/blob/master/tasks/js-oop.md">Object oriented JS</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                OOP exercise
+                <a href="/kottans/frontend/blob/master/tasks/js-post-oop.md">OOP exercise</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Offline Web Applications
+                <a href="/kottans/frontend/blob/master/tasks/app-design-offline.md">Offline Web Applications</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Memory pair game
+                <a href="/kottans/frontend/blob/master/tasks/memory-pair-game.md">Memory pair game</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Website Performance Optimization
+                <a href="/kottans/frontend/blob/master/tasks/app-design-performance.md">Website Performance Optimization</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                Friends App
+                <a href="/kottans/frontend/blob/master/tasks/friends-app.md">Friends App</a>
             </li>
         </ol>
     </div>
