@@ -12,8 +12,8 @@
     <div>
         <h2>Linux CLI and Networking</h2>
     </div>
-    <p><img src="1.png" alt="Cli-1-done"></p>
-    <p><img src="2.png" alt="Cli-2-done"></p>
+    <p><img src="1.PNG" alt="Cli-1-done"></p>
+    <p><img src="2.PNG" alt="Cli-2-done"></p>
     <div>
     <p><i>What was new to you?</i><span> - Rediractions and Pipes.</span></p>
     <p><i>What surprised you?</i><span> - Regular expressions in search.</span></p>
