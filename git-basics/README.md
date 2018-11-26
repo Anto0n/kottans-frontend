@@ -12,7 +12,7 @@
     <div>
         <h2>General Basics</h2>
     </div>
-      <p><img src="1.PNG" alt="Git-basics-done"></p>
+      <p><img src="1.png" alt="Git-basics-done"></p>
     <div>
     <p><i>What was new to you?</i><span> - The concept of branching in Git.</span></p>
     <p><i>What surprised you?</i><span> - Git cherry-pick.</span></p>
