@@ -12,7 +12,7 @@
     <div>
         <h2>Intro to HTML & CSS</h2>
     </div>
-      <p><img src="1.PNG" alt="html-css-done"></p>
+      <p><img src="1.png" alt="html-css-done"></p>
     <div>
     <p><i>What was new to you?</i><span> - Grouping principle.</span></p>
     <p><i>What surprised you?</i><span> - Some features of Google DevTools.</span></p>
