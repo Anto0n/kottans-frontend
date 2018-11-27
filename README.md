@@ -35,7 +35,7 @@
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                <a href="/kottans/frontend/blob/master/tasks/html-css-responsive.md">Responsive Web Design</a>
+                <a href="/kottans/frontend/blob/master/tasks/html-css-responsive.md">## Responsive Web Design</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
