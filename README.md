@@ -39,7 +39,7 @@
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
-                <a href="https://github.com/kottans/frontend/blob/master/tasks/js-basics.md">JavaScript Basics</a>
+                <a href="https://github.com/kottans/frontend/blob/master/tasks/js-basics.md">## JavaScript Basics</a>
             </li>
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <!-- <i class="material-icons">done</i></span> -->
