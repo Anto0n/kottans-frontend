@@ -12,6 +12,7 @@
     <div>
         <h2>JavaScript Basics</h2>
     </div>
+    <p><img src="2.PNG" alt="task-js-basics-done"></p>
     <p><img src="1.PNG" alt="task-js-basics-done"></p>
     <div>
     <p><i>What was new to you?</i><span> - Map method.</span></p>
